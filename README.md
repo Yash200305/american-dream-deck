@@ -3,7 +3,7 @@
 A high-end, browser-based sales tool built for the commercial team at **American Dream**. This application replaces fragmented sales materials with a unified, cinematic experience designed to drive retail leasing, brand sponsorships, and event bookings.
 
 ## 🚀 Live Demo
-**[INSERT_YOUR_VERCEL_URL_HERE]**
+**https://american-dream-deck-two.vercel.app/**
 
 ## 🛠️ Tech Stack
 * **React 19 & Vite**: High-performance frontend engine optimized for speed.
